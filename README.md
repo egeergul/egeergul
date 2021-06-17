@@ -6,7 +6,8 @@
 
 <h2>Find me on profession world</h2>
 <p align="left">
-  <a href="www.linkedin.com/in/ege-ergül-5614931a2" style="margin-left: 25px;"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="www.linkedin.com/in/ege-ergül-5614931a2" style="margin-left: 25px;"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://github.com/egeergul/egeergul/blob/main/linkedin.svg"></a>
+    <a href="" style="margin-left: 25px;"><img alt="Gmail" title="Gmail" height="32" width="32" src="https://github.com/egeergul/egeergul/blob/main/gmail.svg"></a>
 </p>
 
 <h2>Find me on socail media</h2>
