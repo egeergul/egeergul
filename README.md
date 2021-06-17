@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a mobile music app
 - 🌱 I’m currently learning Android mobile app development and full-stack web development
 - ⚡ Fun fact: I LUV music and drawing
-- 📫 How to reach me: 
+- 📫 How to reach me: egeergull2001@gmail.com
 
 # Languages
 <p align="left">
