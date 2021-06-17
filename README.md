@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 
 <p align="left">
-  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
+  <a src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" 
   <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
