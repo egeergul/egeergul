@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @egeergul
-- 👀 I’m interested in full-stack web development and mobile development
-- 🌱 I’m currently learning Android Studio and Android Mobile App development.
-- 📫 How to reach me ...
+- 🔭 I’m currently working on a mobile music app
+- 🌱 I’m currently learning Android mobile app development and full-stack web development
+- ⚡ Fun fact: I LUV music and drawing
+- 📫 How to reach me: 
 
-<!---
-egeergul/egeergul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
+  <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" 
+  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
+
+
