@@ -11,7 +11,7 @@
   <img alt="JavaScript" title="JavaScript" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/javascript.svg">
   <img alt="Android" title="Android" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/android.svg">
   <img alt="Java" title="Java" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/java.svg">
-    
+  
 </p>
 
 ## Find me on profession world
