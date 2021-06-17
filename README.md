@@ -5,8 +5,8 @@
 - 📫 How to reach me: 
 
 <p align="left">
-  <a href=""><img alt="Spotify" title="Spotify" height="32" width="32"</a>
-  <a href=""><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://open.spotify.com/user/h75yjfqd0p6au06p0isrtni8e?si=XScQ695jTqOrhboMK_-xww"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"/></a>
+  <a href="www.linkedin.com/in/ege-ergül-5614931a2"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
 
 
