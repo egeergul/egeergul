@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I LUV music and drawing
 - 📫 How to reach me: egeergull2001@gmail.com
 
-# Languages
+# Languages and Frameworks
 <p align="left">
   <img alt="HTML" title="HTML" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/html-5.svg">
   <img alt="CSS" title="CSS" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/css.svg">
@@ -12,6 +12,10 @@
   <img alt="Android" title="Android" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/android.svg">
   <img alt="Java" title="Java" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/java.svg">
   <img alt="Cpp" title="Cpp" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/cpp.svg">
+  # Python
+  # React
+  # Flutter
+  
 </p>
 
 ## Find me on profession world
