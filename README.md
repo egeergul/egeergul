@@ -1,22 +1,18 @@
-- 👋 Hi, I’m @egeergul
-- 🔭 I’m currently working on a mobile music app
-- 🌱 I’m currently learning Android mobile app development and full-stack web development
-- ⚡ Fun fact: I LUV music and drawing
-- 📫 How to reach me: egeergull2001@gmail.com
+- Name  : @egeergul
+- Gmail : egeergull2001@gmail.com
 
 # Languages and Frameworks
-<p align="left">
-  <img alt="HTML" title="HTML" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/html-5.svg">
-  <img alt="CSS" title="CSS" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/css.svg">
-  <img alt="JavaScript" title="JavaScript" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/javascript.svg">
-  <img alt="Android" title="Android" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/android.svg">
-  <img alt="Java" title="Java" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/java.svg">
-  <img alt="Cpp" title="Cpp" height="52" width="52" src="https://github.com/egeergul/egeergul/blob/main/cpp.svg">
-  # Python
-  # React
-  # Flutter
-  
-</p>
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Flutter
+- React Native
+- Android Studio
+- Java
+- C++
+- Python
 
 ## Find me on profession world
 <p align="left">
